@@ -34,6 +34,7 @@
     min-height:100vh ;
 }
 
+
 /*Menu*/
 
 .menu{
@@ -229,7 +230,7 @@ button:hover{
 .mobile-menu{
     width:95%;
     height: auto;
-    position: absolute;
+    position:absolute;
     top: 5px;
     background: #dcdcdc;
     display: none;
@@ -243,7 +244,7 @@ button:hover{
 }
 
 .mobile-menu ul{
-   display: block;
+   display: none;
    text-align: center;
 }
 
